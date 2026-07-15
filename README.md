@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Proctoring System for Online Exams (SPSOE)
 
 An advanced, production-ready AI-powered remote examination platform that ensures exam integrity using Artificial Intelligence, Computer Vision, and real-time monitoring.
@@ -106,3 +107,6 @@ An advanced, production-ready AI-powered remote examination platform that ensure
 1.  Log in as the **Admin**. Under **Real-time Proctor Monitor**, you can view the active exam sessions list and a scrolling log of violation alerts.
 2.  Once the student completes and submits the exam, select the **Exam Management** tab, select the exam, and click **View AI Integrity Reports**.
 3.  Select the candidate. You can view their overall compliance standing, final grade, a breakdown of flags, and a timeline of violations containing screenshots of the evidence.
+=======
+# SPSOE
+>>>>>>> ff4792b8bdcc0694dc22f550003d6478fdb60156
