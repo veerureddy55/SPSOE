@@ -1,0 +1,20 @@
+node_modules/
+.env
+dist/
+*.log
+.DS_Store
+.gemini/
+
+# Client specific
+client/node_modules/
+client/dist/
+
+# Server specific
+server/node_modules/
+server/uploads/*
+!server/uploads/.gitkeep
+
+# AI Proctor specific
+AI-Proctor/models/
+AI-Proctor/__pycache__/
+*.pyc
